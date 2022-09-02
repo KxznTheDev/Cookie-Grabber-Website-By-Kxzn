@@ -1,8 +1,8 @@
-# Cookie-Grabber-Website-By-Kxzn
+# Cookie-Grabber-Website-By-west
 
 
 
-This Is Made By Kxzn#1000 Dont Try To Skid It Kid
+This Is Made By west#1945 Dont Try To Skid It Kid
 
 
 Change The Webhook In Login.php , You can Also Change The Embed Bot Username
